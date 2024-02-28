@@ -1,5 +1,5 @@
 var translations = {
-    "key999999": "test",
+    "key999999": "test edit",
     "key1": "Spend %",
     "key2": "(Latest 2 months)",
     "key3": ">=5 words",
